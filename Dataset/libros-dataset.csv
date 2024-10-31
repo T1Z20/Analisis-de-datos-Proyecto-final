@@ -1,0 +1,120 @@
+titulo,autor,genero,paginas,valoracion,complejidad
+Don Segundo Sombra,Ricardo Güiraldes,Narrativa,352,4.6,3
+Martín Fierro,José Hernández,Poesía épica,432,4.5,3
+El túnel,Ernesto Sabato,Novela psicológica,288,4.5,5
+Cien años de soledad,Gabriel García Márquez,Realismo mágico,432,4.7,4
+Rayuela,Julio Cortázar,Literatura experimental,577,4.3,5
+Fervor de Buenos Aires,Jorge Luis Borges,Poesía,120,4.4,2
+Sobre héroes y tumbas,Ernesto Sabato,Novela,576,4.4,5
+El Aleph,Jorge Luis Borges,Cuento,272,4.6,3
+Las fuerzas extrañas,Leopoldo Lugones,Ficción científica,272,4.2,4
+La casa de los espiritus,Isabel Allende,Realismo mágico,368,4.5,4
+El coronel no tiene quien le escriba,Gabriel García Márquez,Novela corta,144,4.3,3
+Pedro Páramo,Juan Rulfo,Realismo mágico,124,4.6,4
+El amor en los tiempos del cólera,Gabriel García Márquez,Novela romántica,424,4.6,4
+La tregua,Mario Benedetti,Novela,256,4.4,3
+Los pasos perdidos,Alejo Carpentier,Realismo mágico,384,4.5,5
+Los ríos profundos,José María Arguedas,Narrativa,256,4.5,4
+Zama,Antonio Di Benedetto,Novela,192,4.4,4
+Las intermitencias de la muerte,José Saramago,Ficción filosófica,224,4.4,4
+Memorias de mis putas tristes,Gabriel García Márquez,Novela,112,4.3,3
+El perfume,Patrick Süskind,Novela histórica,296,4.6,4
+La sombra del viento,Carlos Ruiz Zafón,Misterio,576,4.7,4
+La metamorfosis,Franz Kafka,Ficción,104,4.5,3
+1984,George Orwell,Distopía,328,4.7,5
+Crónica de una muerte anunciada,Gabriel García Márquez,Narrativa,144,4.5,3
+Fahrenheit 451,Ray Bradbury,Distopía,194,4.6,4
+Ensayo sobre la ceguera,José Saramago,Ficción filosófica,352,4.5,4
+La colmena,Camilo José Cela,Narrativa,304,4.3,4
+El viejo y el mar,Ernest Hemingway,Novela,128,4.4,3
+Madame Bovary,Gustave Flaubert,Novela,328,4.4,4
+Ana Karenina,León Tolstói,Novela,864,4.6,5
+La guerra y la paz,León Tolstói,Novela histórica,1440,4.7,5
+Los miserables,Victor Hugo,Novela histórica,1232,4.8,5
+Matar a un ruiseñor,Harper Lee,Narrativa,336,4.7,4
+Orgullo y prejuicio,Jane Austen,Novela romántica,416,4.6,4
+El gran Gatsby,F. Scott Fitzgerald,Narrativa,180,4.4,3
+Drácula,Bram Stoker,Terror,488,4.5,4
+Frankenstein,Mary Shelley,Terror,280,4.6,3
+El extranjero,Albert Camus,Novela filosófica,136,4.5,4
+La náusea,Jean-Paul Sartre,Ficción filosófica,320,4.4,5
+El camino de los reyes,Brandon Sanderson,Fantasía épica,1007,4.8,5
+Palabras radiantes,Brandon Sanderson,Fantasía épica,1087,4.9,5
+El héroe de las eras,Brandon Sanderson,Fantasía,572,4.7,4
+El imperio final,Brandon Sanderson,Fantasía,672,4.8,4
+Juramentada,Brandon Sanderson,Fantasía épica,1248,4.9,5
+El aliento de los dioses,Brandon Sanderson,Fantasía,592,4.7,4
+El Ritmo de la Guerra,Brandon Sanderson,Fantasía épica,1232,4.8,5
+El alma del emperador,Brandon Sanderson,Fantasía,176,4.6,3
+El líder que no tenía cargo,Robin Sharma,Autoayuda,224,4.5,3
+Los secretos de la mente millonaria,T. Harv Eker,Autoayuda,176,4.6,3
+Cómo ganar amigos e influir sobre las personas,Dale Carnegie,Autoayuda,320,4.7,3
+Los 7 hábitos de la gente altamente efectiva,Stephen Covey,Autoayuda,432,4.7,4
+Piense y hágase rico,Napoleon Hill,Autoayuda,320,4.6,3
+Hábitos atómicos,James Clear,Autoayuda,320,4.8,3
+El poder del ahora,Eckhart Tolle,Autoayuda,256,4.7,4
+Tus zonas erróneas,Wayne Dyer,Autoayuda,304,4.6,3
+La magia del orden,Marie Kondo,Autoayuda,224,4.4,2
+El monje que vendió su Ferrari,Robin Sharma,Autoayuda,224,4.6,3
+Despierta tu héroe interior,Víctor Hugo Manzanilla,Autoayuda,224,4.5,3
+Vivir con abundancia,Louise Hay,Autoayuda,224,4.4,2
+Dune,Frank Herbert,Ciencia ficción,688,4.8,5
+Fundación,Isaac Asimov,Ciencia ficción,255,4.6,4
+Neuromante,William Gibson,Cyberpunk,271,4.4,5
+Snow Crash,Neal Stephenson,Cyberpunk,480,4.3,5
+La carretera,Cormac McCarthy,Distopía,241,4.3,4
+Un mundo feliz,Aldous Huxley,Distopía,311,4.5,4
+El hombre en el castillo,Philip K. Dick,Historia alternativa,274,4.2,4
+El nombre de la rosa,Umberto Eco,Misterio histórico,512,4.4,5
+La trilogía de Nueva York,Paul Auster,Misterio,386,4.2,4
+La verdad sobre el caso Harry Quebert,Joël Dicker,Thriller,672,4.5,4
+Mujercitas,Louisa May Alcott,Clásico,544,4.5,3
+La insoportable levedad del ser,Milan Kundera,Novela filosófica,312,4.4,4
+El diario de Ana Frank,Ana Frank,Biografía,352,4.8,3
+Steve Jobs,Walter Isaacson,Biografía,656,4.7,4
+El hombre que amaba a los perros,Leonardo Padura,Ficción histórica,600,4.7,5
+Los detectives salvajes,Roberto Bolaño,Ficción,672,4.5,5
+La broma infinita,David Foster Wallace,Literatura experimental,1079,4.3,5
+Hijos de la medianoche,Salman Rushdie,Realismo mágico,647,4.4,5
+El arte de la guerra,Sun Tzu,Estrategia,160,4.7,2
+Sapiens,Yuval Noah Harari,Historia,496,4.7,4
+Homo Deus,Yuval Noah Harari,Historia,448,4.6,4
+Educada,Tara Westover,Biografía,400,4.7,4
+El código de la manifestación,Napoleon Hill,Autoayuda,234,4.6,3
+El poder de la disciplina,Daniel Walter,Autoayuda,196,4.5,3
+Los cuatro acuerdos,Don Miguel Ruiz,Autoayuda,160,4.6,3
+El marciano,Andy Weir,Ciencia ficción,387,4.7,4
+El problema de los tres cuerpos,Liu Cixin,Ciencia ficción,416,4.6,5
+Hyperion,Dan Simmons,Ciencia ficción,482,4.6,5
+El hombre invisible,H.G. Wells,Ciencia ficción,208,4.5,3
+La isla del doctor Moreau,H.G. Wells,Ciencia ficción,174,4.4,3
+Ubik,Philip K. Dick,Ciencia ficción,224,4.5,4
+La mano izquierda de la oscuridad,Ursula K. Le Guin,Ciencia ficción,336,4.6,5
+Cuentos completos,Edgar Allan Poe,Terror,1040,4.7,5
+It,Stephen King,Terror,1504,4.7,5
+El resplandor,Stephen King,Terror,688,4.8,4
+El exorcista,William Peter Blatty,Terror,400,4.5,4
+Cementerio de animales,Stephen King,Terror,416,4.6,4
+La chica del tren,Paula Hawkins,Thriller,416,4.2,4
+Perdida,Gillian Flynn,Thriller,576,4.3,4
+El silencio de los corderos,Thomas Harris,Thriller,368,4.6,4
+Los hombres que no amaban a las mujeres,Stieg Larsson,Thriller,672,4.5,4
+La catedral del mar,Ildefonso Falcones,Novela histórica,672,4.6,4
+La ladrona de libros,Markus Zusak,Novela histórica,480,4.7,4
+Patria,Fernando Aramburu,Novela histórica,648,4.7,4
+El príncipe,Niccolò Machiavelli,Política,140,4.5,3
+La República,Platón,Filosofía,352,4.7,5
+Meditaciones,Marco Aurelio,Filosofía,304,4.7,4
+Más allá del bien y del mal,Friedrich Nietzsche,Filosofía,320,4.6,5
+El segundo sexo,Simone de Beauvoir,Filosofía,825,4.5,5
+Atrévete a no gustar,Ichiro Kishimi,Filosofía,304,4.6,3
+Vendes o vendes,Grant Cardone,Autoayuda,250,4.5,3
+Los secretos de la felicidad auténtica,Martin Seligman,Autoayuda,336,4.6,3
+La vaca,Camilo Cruz,Autoayuda,176,4.5,2
+Piensa como un monje,Jay Shetty,Autoayuda,352,4.6,3
+El camino del artista,Julia Cameron,Autoayuda,304,4.6,3
+La buena suerte,Álex Rovira,Autoayuda,256,4.4,2
+Tus tres superpoderes para lograr una vida extraordinaria,Mónica Esgueva,Autoayuda,224,4.4,3
+El poder sin límites,Tony Robbins,Autoayuda,448,4.6,4
+Gente tóxica,Bernardo Stamateas,Autoayuda,240,4.4,2
+The Secret History,Donna Tartt,Ficción psicológica,559,4.4,4
